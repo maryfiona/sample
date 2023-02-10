@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+.search{
+	position: relative;
+	margin-left:45em;
+
+}
+.searchplace{
+	outline: none;
+	border:none;
+	padding-left: 10px; 
+	transition: 2s;
+	width: 10em
+}
+.searchplace:hover{
+	width: 15em;
+}
+.background{
+	background-image: url(./white.jpg);
+	background-attachment: fixed;
+	width: 100%;
+	height: 20em;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.uche{
+	color: red;
+}
+.nora{
+	color:hotpink;
+}
+.fiona{
+	color: orange;
+}
+.white{
+	color: white;
+	list-style: none;
+}
+.green{
+	color: green;
+	list-style: none;
+
+}
+.agu{
+	color:black;
+}
+.yellow{
+	color: yellow;
+	list-style:none; 	
+}
